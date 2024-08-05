@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 "use client"
 import React from 'react';
 import { Bell, ChartLine, ChevronRight, Settings, User } from 'lucide-react';
